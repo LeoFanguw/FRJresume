@@ -15,7 +15,7 @@ body {
   margin: 0;
   padding: 0;
   transition: 0.5s;
-  background: #ffffff;
+  background: #e9e6e6;
   cursor: default;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
@@ -511,4 +511,8 @@ h3 {
 
 .resume .func .interests-items div span {
   display: block;
+}
+
+.contact {
+  font-size: 0.85em;
 }
